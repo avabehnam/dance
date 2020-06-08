@@ -1,0 +1,3 @@
+step right
+step left
+jump around
